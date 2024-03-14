@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.12.2
 MAINTAINER Ho Si Tuan "hosituan.work@gmail.com"
 COPY . /app
 WORKDIR /app
